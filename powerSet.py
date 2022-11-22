@@ -17,3 +17,5 @@ st = "abc"
 cur = ""
 i = 0
 powerSet(st,i,cur)
+
+# op = abc,ab,ac,bc,b,c,a
